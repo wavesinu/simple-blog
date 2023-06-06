@@ -10,3 +10,5 @@ spring-boot-blog-application/gradlew
 *.xml
 *.db
 *.iml
+*.patch
+*.pb
